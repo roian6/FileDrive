@@ -1,0 +1,19 @@
+{
+    "name": "filedrive",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
